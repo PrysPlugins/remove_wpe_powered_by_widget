@@ -7,6 +7,9 @@
  * Author: Jeremy Pry
  * Author URI: http://jeremypry.com/
  * License: GPL2
+ * 
+ * GitHub Plugin URI: https://github.com/PrysPlugins/remove_wpe_powered_by_widget
+ * GitHub Branch: master
  */
 
 // Prevent direct access to this file
